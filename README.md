@@ -1,3 +1,8 @@
+# November 2021 Notice
+
+Merged patches by Galcian79 which collect the archive files from a different location which is still available
+ ~Vile Lasagna
+
 # December 2020 Notice
 
 This may be broken with prefixes created with Proton 5.13, due to permission issues with how they symlink dll files.
